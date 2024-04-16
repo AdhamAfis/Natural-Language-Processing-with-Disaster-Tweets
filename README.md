@@ -40,12 +40,6 @@ The BERT model outperformed the TF-IDF baseline, achieving higher accuracy and F
 - Investigate advanced text preprocessing techniques and feature engineering methods to enhance model performance.
 - Deploy the trained models as part of a real-time text classification system for disaster response and monitoring.
 
-## Instructions for Use
-1. Clone this repository.
-2. Install the required dependencies listed in `requirements.txt`.
-3. Run the notebooks `TF_IDF_Baseline.ipynb` and `BERT_Model.ipynb` to replicate the experiments.
-4. Explore the code and experiment with different parameters to customize the models.
-
 ## Dependencies
 - Python 3.x
 - TensorFlow
